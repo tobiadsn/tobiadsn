@@ -14,5 +14,5 @@
 - 👯 I’m looking to collaborate on Cyber Security Projects, CTFs, and Bug Bounty Programs 
 - 💬 Ask me about Linux, Network & Web Security 
 - 📫 How to reach me Inioluwaemmanuel1@gmail.com 
-- ⚡ Fun fact: I love films, and I'm open to exploring where this quest takes me 
+- ⚡ Fun fact: I love films, and I'm open to exploring where this quest takes me with a little twist
 
